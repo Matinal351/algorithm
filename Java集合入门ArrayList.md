@@ -1,6 +1,6 @@
 # Java 集合入门：ArrayList 的增删改查与对象引用
 
-[返回学习目录](README.md) · [上一篇：异常处理与文件 IO](Java异常处理与文件IO.md)
+[返回学习目录](README.md) · [上一篇：异常处理与文件 IO](Java异常处理与文件IO.md) · [下一篇：HashSet 与 HashMap](Java集合进阶HashSet与HashMap.md)
 
 本文整理 ArrayList 的创建、增删改查、遍历、遍历中删除，以及保存学生对象时的引用行为。理解泛型可先读 [包装类与泛型基础](Java包装类与泛型基础.md)。
 
@@ -369,15 +369,10 @@ java Main
 
 ## 8. 接下来学什么
 
-下面是后续路线，目前只是用途介绍，不是已经展开学习的教程：
+集合部分已经补成以下续篇，建议依次阅读：
 
-| 内容 | 用途 |
-|---|---|
-| HashSet | 去重，保存不重复元素 |
-| HashMap | 根据学号等键查找对应值 |
-| Comparator 与排序 | 按指定规则排列对象 |
-| equals 与 hashCode | 明确对象相等与散列集合规则 |
-| Lambda 与 Stream | 表达操作、筛选和转换数据 |
-| 多线程 | 理解并发执行和共享数据 |
+1. [HashSet 与 HashMap](Java集合进阶HashSet与HashMap.md)：去重、按键查找、计数、插入顺序与有序映射。
+2. [对象相等与集合排序](Java对象相等与集合排序.md)：equals/hashCode、Comparable、Comparator、Lambda 和多条件排序。
+3. [迭代器与队列](Java迭代器与队列.md)：遍历删除、Queue、Deque、PriorityQueue、复制与集合选型。
 
-当前先练熟 ArrayList 的增删改查、遍历和引用行为，再继续学习这些内容。
+之后还可以单独学习 Stream、泛型通配符和多线程等专题。
