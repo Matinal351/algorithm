@@ -4,7 +4,12 @@
 
 ## Java
 
-- [Java 类与面向对象入门：从创建对象到理解接口](Java类与面向对象入门.md)
+建议按以下顺序阅读：
+
+1. [Java 类与面向对象入门：从创建对象到理解接口](Java类与面向对象入门.md)
+2. [Java 包装类与泛型基础：看懂 MaxPQ 的类型声明](Java包装类与泛型基础.md)
+3. [Java 异常处理与文件 IO：从 try-catch 到文本和字节读写](Java异常处理与文件IO.md)
+4. [Java 集合入门：ArrayList 的增删改查与对象引用](Java集合入门ArrayList.md)
 
 ## 算法
 
