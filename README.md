@@ -10,6 +10,9 @@
 2. [Java 包装类与泛型基础：看懂 MaxPQ 的类型声明](Java包装类与泛型基础.md)
 3. [Java 异常处理与文件 IO：从 try-catch 到文本和字节读写](Java异常处理与文件IO.md)
 4. [Java 集合入门：ArrayList 的增删改查与对象引用](Java集合入门ArrayList.md)
+5. [Java 集合进阶：HashSet 去重与 HashMap 查找](Java集合进阶HashSet与HashMap.md)
+6. [Java 对象相等与集合排序：equals、hashCode 和 Comparator](Java对象相等与集合排序.md)
+7. [Java 迭代器与队列：Iterator、Deque、PriorityQueue 和集合选型](Java迭代器与队列.md)
 
 ## 算法
 
